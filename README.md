@@ -18,3 +18,9 @@ CasaOS - App Store - 更多应用 - 填入"https://github.com/leochan2017/CasaOS
 ##### 2.3 CasaOS - App Store - 右上角自定义安装 - 右上角导入 - 把刚刚下载的yml拖入到docker compose 上传
 
 ##### 2.4 确认表单信息，如无意外右下角安装
+
+
+
+## 为啥？
+目前的应用商店部分应用的版本是最新的，但是最新版里面很多都不能用在armv7架构的设备（例如用玩客云刷的系统），他们只支持amd64和arm64
+如果你想下载对应的armv7版本需要安装回旧版才能成功
