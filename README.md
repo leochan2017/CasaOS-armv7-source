@@ -1,5 +1,5 @@
 # CasaOS-armv7-source
-个人收集的一些能用在armv7架构的软件（主要为CasaOS提供软件源用）
+个人收集的一些能用在armv7架构(玩客云是这个架构)的软件（主要为CasaOS提供软件源用）
 
 
 
